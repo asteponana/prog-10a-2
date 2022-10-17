@@ -3,7 +3,7 @@ if men>12:
   print("Такого месяца нет")
 if men<1:
   print("Такого месяца нет")
-if men==1:print("январь")
+if men==1:print("Январь")
 elif men==2:print("Февраль")
 elif men==3:print("Март")
 elif men==4:print("Апрель")
